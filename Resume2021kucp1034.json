@@ -1,0 +1,76 @@
+{
+    "basics": {
+        "name": "Kalpit Agarwal",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1034@iiitkota.ac.in",
+        "phone": "+91861927018",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "In front of Dayanand vidhya vihar school, naya bass",
+            "postalCode": "331507",
+            "city": "Sujangarh",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            
+            {
+                "network": "Github",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": "/"
+            },
+            {
+                "network": "Instagram",
+                "username": "agarwal_kalpit",
+                "url": "https://instagram.com/agarwal_kalpit"
+            }
+        ]
+    },
+     "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+      
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
